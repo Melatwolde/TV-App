@@ -6,7 +6,7 @@ import { MdOutlineCategory } from 'react-icons/md';
 
 export default function ChannelPreview() {
   return (
-    <section className="relative w-full min-h-[calc(100vh-80px)]  flex items-center px-6 md:px-16 xl:px-24 2xl:px-40">
+    <section className="font-genos relative w-full min-h-[calc(100vh-80px)]  flex items-center px-6 md:px-16 xl:px-24 2xl:px-40">
  
       <div className="absolute inset-0 -z-10">
         {/* <Image
